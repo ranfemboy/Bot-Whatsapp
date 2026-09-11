@@ -1,0 +1,78 @@
+{
+  "bot": {
+    "name": "⎯Frieren 天使",
+    "phoneNumber": "6285797332950",
+    "thumbnail": "https://files.catbox.moe/dgp1p6.jpg",
+    "groupJid": "",
+    "groupLink": "https://chat.whatsapp.com/FxEYZl2UyzAEI2yhaH34Ye"
+  },
+  "msg": {
+    "admin": "Perintah hanya dapat digunakan oleh admin grup!",
+    "banned": "Anda telah dibanned!",
+    "botAdmin": "Bot harus menjadi admin grup!",
+    "botGroupMembership": "Anda tidak bergabung dengan grup bot!",
+    "coin": "Koin Anda tidak cukup!",
+    "cooldown": "Perintah sedang dalam cooldown, tunggu...",
+    "gamerestrict": "Admin grup membatasi perintah game!",
+    "group": "Perintah hanya dapat digunakan dalam grup!",
+    "groupSewa": "Admin grup belum melakukan sewa!",
+    "owner": "Perintah hanya dapat digunakan oleh owner!",
+    "premium": "Anda harus menjadi pengguna premium!",
+    "private": "Perintah hanya dapat digunakan dalam obrolan pribadi!",
+    "privatePremiumOnly": "Anda harus menjadi pengguna premium untuk menggunakannya dalam obrolan pribadi.",
+    "restrict": "Perintah dibatasi untuk menghindari pemblokiran WhatsApp!",
+    "unavailableAtNight": "Bot tidak tersedia dari jam 12 malam sampai 6 pagi! Silakan kembali nanti.",
+    "footer": "⎯Frieren 天使 °♡",
+    "wait": "Tunggu sebentar...",
+    "notFound": "Tidak ada yang ditemukan! Coba lagi nanti.",
+    "error": "Terjadi kesalahan saat memproses permintaan! Coba lagi nanti atau hubungi owner jika masalah terus berlanjut.",
+    "invalidUrl": "URL tidak valid!"
+  },
+  "owner": {
+    "name": "⎯ran 天使",
+    "organization": "Owner",
+    "id": "6285810537050",
+    "report": false,
+    "co": [
+      {
+        "name": "⎯ran 天使",
+        "organization": "?",
+        "id": "380674280473",
+        "report": false
+      },
+      {
+        "name": "Who this guy?",
+        "organization": "Random kid",
+        "id": "0",
+        "report": false,
+        "invisible": true
+      }
+    ]
+  },
+  "sticker": {
+    "packname": "",
+    "author": "⎯ran 天使┊♡"
+  },
+  "system": {
+    "alwaysOnline": true,
+    "antiCall": true,
+    "autoRead": true,
+    "autoTypingOnCmd": true,
+    "cooldown": 5000,
+    "maxListeners": 50,
+    "port": 3000,
+    "privatePremiumOnly": false,
+    "restrict": false,
+    "requireBotGroupMembership": false,
+    "requireGroupSewa": false,
+    "selfReply": true,
+    "timeZone": "Asia/Jakarta",
+    "unavailableAtNight": false,
+    "useCoin": true,
+    "usePairingCode": true,
+    "customPairingCode": "FRIEREN1",
+    "useStore": false,
+    "useServer": false,
+    "hotReload": true
+  }
+}
